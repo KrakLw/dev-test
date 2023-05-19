@@ -34902,9 +34902,7 @@ h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5, h6, .h6 {
   color: var(--bs-dark-inverse);
 }
 .btn-check:checked + .btn.btn-dark, .btn-check:active + .btn.btn-dark, .btn.btn-dark:focus:not(.btn-active), .btn.btn-dark:hover:not(.btn-active), .btn.btn-dark:active:not(.btn-active), .btn.btn-dark.active, .btn.btn-dark.show, .show > .btn.btn-dark {
-  color: var(--bs-dark-inverse);
-  border-color: var(--bs-dark-active);
-  background-color: var(--bs-dark-active) !important;
+  background-color: #181818 !important;
 }
 .btn-check:checked + .btn.btn-dark i,
 .btn-check:checked + .btn.btn-dark .svg-icon, .btn-check:active + .btn.btn-dark i,
