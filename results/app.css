@@ -727,6 +727,20 @@ body * {
 	font-weight: bold !important;
 }
 
+.legit_text {
+	color: #18d571;
+	font-weight: 500;
+}
+.legit_card {
+	width: 1rem;
+	color: #18d571;
+	vertical-align: text-top;
+}
+
+.text-center-align {
+	text-align: center;
+}
+
 .lds-ripple {
 	transition: opacity 0.2s ease-in; 
 	position: absolute;
