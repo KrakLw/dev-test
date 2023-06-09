@@ -729,13 +729,13 @@ body * {
 
 .legit_text {
 	color: #18d571;
-	font-weight: 500;
+	font-weight: 600;
 }
 .legit_card {
 	width: 1rem;
 	color: #18d571;
-	vertical-align: text-top;
 	fill: #18d571;
+	vertical-align: text-top;
 }
 
 .text-center-align {
