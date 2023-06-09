@@ -736,6 +736,7 @@ body * {
 	color: #18d571;
 	fill: #18d571;
 	vertical-align: text-top;
+	user-select: none;
 }
 
 .text-center-align {
